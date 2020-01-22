@@ -1,0 +1,4 @@
+*.bak
+*.peak
+/вертолёт/dead/*
+instant.xml
