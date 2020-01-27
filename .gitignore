@@ -2,3 +2,4 @@
 *.peak
 */dead/*
 instant.xml
+*.pending
