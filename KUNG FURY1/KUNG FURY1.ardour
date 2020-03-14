@@ -69,8 +69,8 @@
   </Config>
   <Metadata/>
   <Sources>
-    <Source name="KUNG FURY.ogg" type="audio" flags="" id="157" channel="0" origin="" gain="1"/>
-    <Source name="KUNG FURY.ogg" type="audio" flags="" id="159" channel="1" origin="" gain="1"/>
+    <Source name="KUNG FURY.wav" type="audio" flags="" id="157" channel="0" origin="" gain="1"/>
+    <Source name="KUNG FURY.wav" type="audio" flags="" id="159" channel="1" origin="" gain="1"/>
     <Source name="Аудио-1.wav" type="audio" flags="" id="304" captured-for="Аудио" channel="0" origin="" gain="1"/>
     <Source name="Аудио-2.wav" type="audio" flags="" id="351" captured-for="Аудио" channel="0" origin="" gain="1"/>
     <Source name="Аудио-3.wav" type="audio" flags="" id="703" captured-for="Аудио" channel="0" origin="" gain="1"/>
