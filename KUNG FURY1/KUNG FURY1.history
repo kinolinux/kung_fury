@@ -18,4 +18,22 @@
       </Changes>
     </StatefulDiffCommand>
   </UndoTransaction>
+  <UndoTransaction tv-sec="1585033825" tv-usec="573139" name="Захват">
+    <StatefulDiffCommand obj-id="301" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="13219"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1585033920" tv-usec="279049" name="Захват">
+    <StatefulDiffCommand obj-id="301" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="13284"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
 </UndoHistory>
