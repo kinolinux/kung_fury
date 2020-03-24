@@ -1,37 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1585033263" tv-usec="785512" name="Захват">
+  <UndoTransaction tv-sec="1585034287" tv-usec="10544" name="Захват">
     <StatefulDiffCommand obj-id="301" type-name="ARDOUR::AudioPlaylist">
       <Changes>
         <Regions>
-          <Add id="13153"/>
+          <Add id="13349"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1585033293" tv-usec="312404" name="Захват">
+  <UndoTransaction tv-sec="1585034354" tv-usec="915676" name="Захват">
     <StatefulDiffCommand obj-id="301" type-name="ARDOUR::AudioPlaylist">
       <Changes>
         <Regions>
-          <Add id="13186"/>
+          <Add id="13382"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1585033825" tv-usec="573139" name="Захват">
+  <UndoTransaction tv-sec="1585034485" tv-usec="263135" name="Захват">
     <StatefulDiffCommand obj-id="301" type-name="ARDOUR::AudioPlaylist">
       <Changes>
         <Regions>
-          <Add id="13219"/>
+          <Add id="13414"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1585033920" tv-usec="279049" name="Захват">
+  <UndoTransaction tv-sec="1585034585" tv-usec="252424" name="Захват">
     <StatefulDiffCommand obj-id="301" type-name="ARDOUR::AudioPlaylist">
       <Changes>
         <Regions>
-          <Add id="13284"/>
+          <Add id="13446"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1585034738" tv-usec="285391" name="Захват">
+    <StatefulDiffCommand obj-id="301" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="13478"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1585034741" tv-usec="311321" name="Перемещение области">
+    <StatefulDiffCommand obj-id="13478" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <position from="49357898" to="49373468"/>
+        <beat from="2056.5790833333335" to="2057.2278333333334"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1730" left-frame="47306118" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="13478"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="1730" left-frame="47306118" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="13478"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1585034795" tv-usec="289469" name="Захват">
+    <StatefulDiffCommand obj-id="301" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="13519"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1585034809" tv-usec="678938" name="Захват">
+    <StatefulDiffCommand obj-id="301" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="13551"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1585034876" tv-usec="759552" name="Захват">
+    <StatefulDiffCommand obj-id="301" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="13616"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
