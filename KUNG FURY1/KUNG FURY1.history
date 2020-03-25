@@ -209,4 +209,960 @@
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
+  <UndoTransaction tv-sec="1585141528" tv-usec="964340" name="нормировка">
+    <StatefulDiffCommand obj-id="1208" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.4504184722900391"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="7921593" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="1208"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="7921593" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="1208"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1585141537" tv-usec="139621" name="нормировка">
+    <StatefulDiffCommand obj-id="1241" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.9323580265045166"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="7921593" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="1241"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="7921593" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="1241"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1585141544" tv-usec="584294" name="нормировка">
+    <StatefulDiffCommand obj-id="2586" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.4419994354248047"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="7921593" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="2586"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="7921593" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="2586"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1585141548" tv-usec="501045" name="нормировка">
+    <StatefulDiffCommand obj-id="2683" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.2309365272521973"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="7921593" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="2683"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="7921593" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="2683"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1585141552" tv-usec="340434" name="нормировка">
+    <StatefulDiffCommand obj-id="2814" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.9199622869491577"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="7921593" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="2814"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="7921593" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="2814"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1585141559" tv-usec="591940" name="нормировка">
+    <StatefulDiffCommand obj-id="2847" type-name="ARDOUR::AudioRegion">
+      <Changes/>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="10573667" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="2847"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="10573667" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="2847"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1585141563" tv-usec="963580" name="нормировка">
+    <StatefulDiffCommand obj-id="2888" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="4.7046656608581543"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="10573667" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="2888"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="10573667" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="2888"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1585141568" tv-usec="96563" name="нормировка">
+    <StatefulDiffCommand obj-id="2921" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="3.2669985294342041"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="10573667" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="2921"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="10573667" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="2921"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1585141580" tv-usec="863557" name="нормировка">
+    <StatefulDiffCommand obj-id="2986" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="3.8719124794006348"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="3019" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.6524200439453125"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="10573667" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="2986"/>
+            <Region id="3019"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2048" left-frame="10573667" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="2986"/>
+            <Region id="3019"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1585141599" tv-usec="130982" name="нормировка">
+    <StatefulDiffCommand obj-id="3084" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.8081238269805908"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="35853" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.5065745115280151"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13186" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.5578014850616455"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13153" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.4435493946075439"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13119" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="3.3604755401611328"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13086" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.6263647079467773"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="12704" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.9952503442764282"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="12736" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.4624652862548828"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="12671" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.1488618850708008"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="12337" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.5096980333328247"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="12016" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.5151429176330566"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="11700" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.1946914196014404"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="11635" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.4203726053237915"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="11048" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.76780104637146"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="11015" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.9545478820800781"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="10981" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.3688278198242188"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="10659" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.3249607086181641"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="10627" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.3630046844482422"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="10338" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.3247623443603516"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="10306" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.6555346250534058"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="10274" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="3.0043087005615234"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="9045" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.1015933752059937"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="9011" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.3902416229248047"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="8978" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.164475679397583"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="8946" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.6156991720199585"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="8895" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.9214258193969727"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="8886" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.4642297029495239"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="8394" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.8294618129730225"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="8834" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="3.3826773166656494"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="8361" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.0275969505310059"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="8128" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="4.171079158782959"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="8119" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="3.2204418182373047"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="7683" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.6294331550598145"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="7650" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.8093276023864746"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="7604" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="3.4431014060974121"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="7506" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.4856250286102295"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="6158" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.8102912902832031"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="6125" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.7515320777893066"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="5932" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.9059946537017822"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="5744" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="3.2191762924194336"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="5711" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.0000303983688354"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="5678" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.2277716398239136"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="5645" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.0000303983688354"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="5477" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.0000303983688354"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="4298" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.2269899845123291"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="4265" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.0000303983688354"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="4199" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="3.2575798034667969"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="4167" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="4.1779928207397461"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="3997" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.0540335178375244"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="30387" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="6.2284727096557617"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="30323" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="4.7093987464904785"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="30291" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="3.14743971824646"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="30259" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="3.8523390293121338"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="30218" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.840745210647583"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="30186" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="3.0515921115875244"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="30154" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="3.2787668704986572"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="30122" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.5383837223052979"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="30057" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.8500449657440186"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="30025" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.3516576290130615"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="29993" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.6677517890930176"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="29960" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.7807192802429199"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="29928" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.1755409240722656"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="29896" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="4.0660128593444824"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="29864" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.5130758285522461"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="29832" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.6887664794921875"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="29265" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.8040387630462646"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="29224" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.8310234546661377"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="29160" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="3.6743659973144531"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="29128" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="3.903740406036377"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="29096" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="3.8415000438690186"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="29032" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.6716670989990234"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="27990" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.1467502117156982"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="27958" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="3.1306004524230957"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="27926" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="3.0101044178009033"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="27894" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.8494184017181396"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="27862" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.5719834566116333"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="27798" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="4.0489306449890137"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="25376" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.6153806447982788"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="25303" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.2522506713867188"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="23867" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.1611921787261963"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="23835" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="4.9245562553405762"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="21983" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="3.6855242252349854"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="20858" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.6976203918457031"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="15730" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.0000303983688354"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="15270" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.2440757751464844"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="15238" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.0000303983688354"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="15206" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.0000303983688354"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="15141" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.6053299903869629"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13852" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.1258158683776855"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13788" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.1194696426391602"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13755" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.0000303983688354"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13723" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.0000303983688354"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13681" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.0000303983688354"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13649" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.065210223197937"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13616" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.0862559080123901"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13551" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.0101730823516846"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13519" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.8908249139785767"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13478" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.8006372451782227"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13446" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.4896575212478638"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13414" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.4676399230957031"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13382" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.7827101945877075"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13349" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="2.4580297470092773"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13284" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.1212316751480103"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="13219" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.5451500415802002"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="42" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="32768" left-frame="43096208" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="3084"/>
+            <Region id="35853"/>
+            <Region id="13186"/>
+            <Region id="13153"/>
+            <Region id="13119"/>
+            <Region id="13086"/>
+            <Region id="12704"/>
+            <Region id="12736"/>
+            <Region id="12671"/>
+            <Region id="12337"/>
+            <Region id="12016"/>
+            <Region id="11700"/>
+            <Region id="11635"/>
+            <Region id="11048"/>
+            <Region id="11015"/>
+            <Region id="10981"/>
+            <Region id="10659"/>
+            <Region id="10627"/>
+            <Region id="10338"/>
+            <Region id="10306"/>
+            <Region id="10274"/>
+            <Region id="9045"/>
+            <Region id="9011"/>
+            <Region id="8978"/>
+            <Region id="8946"/>
+            <Region id="8895"/>
+            <Region id="8886"/>
+            <Region id="8394"/>
+            <Region id="8834"/>
+            <Region id="8361"/>
+            <Region id="8128"/>
+            <Region id="8119"/>
+            <Region id="7683"/>
+            <Region id="7650"/>
+            <Region id="7604"/>
+            <Region id="7506"/>
+            <Region id="6158"/>
+            <Region id="6125"/>
+            <Region id="5932"/>
+            <Region id="5744"/>
+            <Region id="5711"/>
+            <Region id="5678"/>
+            <Region id="5645"/>
+            <Region id="5477"/>
+            <Region id="4298"/>
+            <Region id="4265"/>
+            <Region id="4199"/>
+            <Region id="4167"/>
+            <Region id="3997"/>
+            <Region id="30387"/>
+            <Region id="30323"/>
+            <Region id="30291"/>
+            <Region id="30259"/>
+            <Region id="30218"/>
+            <Region id="30186"/>
+            <Region id="30154"/>
+            <Region id="30122"/>
+            <Region id="30057"/>
+            <Region id="30025"/>
+            <Region id="29993"/>
+            <Region id="29960"/>
+            <Region id="29928"/>
+            <Region id="29896"/>
+            <Region id="29864"/>
+            <Region id="29832"/>
+            <Region id="29265"/>
+            <Region id="29224"/>
+            <Region id="29160"/>
+            <Region id="29128"/>
+            <Region id="29096"/>
+            <Region id="29032"/>
+            <Region id="27990"/>
+            <Region id="27958"/>
+            <Region id="27926"/>
+            <Region id="27894"/>
+            <Region id="27862"/>
+            <Region id="27798"/>
+            <Region id="25376"/>
+            <Region id="25303"/>
+            <Region id="23867"/>
+            <Region id="23835"/>
+            <Region id="21983"/>
+            <Region id="20858"/>
+            <Region id="15730"/>
+            <Region id="15270"/>
+            <Region id="15238"/>
+            <Region id="15206"/>
+            <Region id="15141"/>
+            <Region id="13852"/>
+            <Region id="13788"/>
+            <Region id="13755"/>
+            <Region id="13723"/>
+            <Region id="13681"/>
+            <Region id="13649"/>
+            <Region id="13616"/>
+            <Region id="13551"/>
+            <Region id="13519"/>
+            <Region id="13478"/>
+            <Region id="13446"/>
+            <Region id="13414"/>
+            <Region id="13382"/>
+            <Region id="13349"/>
+            <Region id="13284"/>
+            <Region id="13219"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="32768" left-frame="43096208" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="3084"/>
+            <Region id="35853"/>
+            <Region id="13186"/>
+            <Region id="13153"/>
+            <Region id="13119"/>
+            <Region id="13086"/>
+            <Region id="12704"/>
+            <Region id="12736"/>
+            <Region id="12671"/>
+            <Region id="12337"/>
+            <Region id="12016"/>
+            <Region id="11700"/>
+            <Region id="11635"/>
+            <Region id="11048"/>
+            <Region id="11015"/>
+            <Region id="10981"/>
+            <Region id="10659"/>
+            <Region id="10627"/>
+            <Region id="10338"/>
+            <Region id="10306"/>
+            <Region id="10274"/>
+            <Region id="9045"/>
+            <Region id="9011"/>
+            <Region id="8978"/>
+            <Region id="8946"/>
+            <Region id="8895"/>
+            <Region id="8886"/>
+            <Region id="8394"/>
+            <Region id="8834"/>
+            <Region id="8361"/>
+            <Region id="8128"/>
+            <Region id="8119"/>
+            <Region id="7683"/>
+            <Region id="7650"/>
+            <Region id="7604"/>
+            <Region id="7506"/>
+            <Region id="6158"/>
+            <Region id="6125"/>
+            <Region id="5932"/>
+            <Region id="5744"/>
+            <Region id="5711"/>
+            <Region id="5678"/>
+            <Region id="5645"/>
+            <Region id="5477"/>
+            <Region id="4298"/>
+            <Region id="4265"/>
+            <Region id="4199"/>
+            <Region id="4167"/>
+            <Region id="3997"/>
+            <Region id="30387"/>
+            <Region id="30323"/>
+            <Region id="30291"/>
+            <Region id="30259"/>
+            <Region id="30218"/>
+            <Region id="30186"/>
+            <Region id="30154"/>
+            <Region id="30122"/>
+            <Region id="30057"/>
+            <Region id="30025"/>
+            <Region id="29993"/>
+            <Region id="29960"/>
+            <Region id="29928"/>
+            <Region id="29896"/>
+            <Region id="29864"/>
+            <Region id="29832"/>
+            <Region id="29265"/>
+            <Region id="29224"/>
+            <Region id="29160"/>
+            <Region id="29128"/>
+            <Region id="29096"/>
+            <Region id="29032"/>
+            <Region id="27990"/>
+            <Region id="27958"/>
+            <Region id="27926"/>
+            <Region id="27894"/>
+            <Region id="27862"/>
+            <Region id="27798"/>
+            <Region id="25376"/>
+            <Region id="25303"/>
+            <Region id="23867"/>
+            <Region id="23835"/>
+            <Region id="21983"/>
+            <Region id="20858"/>
+            <Region id="15730"/>
+            <Region id="15270"/>
+            <Region id="15238"/>
+            <Region id="15206"/>
+            <Region id="15141"/>
+            <Region id="13852"/>
+            <Region id="13788"/>
+            <Region id="13755"/>
+            <Region id="13723"/>
+            <Region id="13681"/>
+            <Region id="13649"/>
+            <Region id="13616"/>
+            <Region id="13551"/>
+            <Region id="13519"/>
+            <Region id="13478"/>
+            <Region id="13446"/>
+            <Region id="13414"/>
+            <Region id="13382"/>
+            <Region id="13349"/>
+            <Region id="13284"/>
+            <Region id="13219"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
 </UndoHistory>
