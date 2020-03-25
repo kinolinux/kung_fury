@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="KUNG FURY1" sample-rate="48000" end-is-free="1" id-counter="37897" name-counter="2" event-counter="10669" vca-counter="1">
+<Session version="3002" name="KUNG FURY1" sample-rate="48000" end-is-free="1" id-counter="37899" name-counter="2" event-counter="10905" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -605,7 +605,7 @@
           <Port symbol="bypass" value="0"/>
           <Port symbol="level_in" value="1"/>
           <Port symbol="level_out" value="1"/>
-          <Port symbol="limit" value="0.23390588164329529"/>
+          <Port symbol="limit" value="0.33727562427520752"/>
           <Port symbol="attack" value="5"/>
           <Port symbol="release" value="9.2676582336425781"/>
           <Port symbol="asc" value="1"/>
@@ -616,7 +616,7 @@
         <Controllable name="Bypass" id="356" flags="Toggle" value="0" parameter="4" symbol="bypass"/>
         <Controllable name="Input Gain" id="358" flags="" value="1" parameter="5" symbol="level_in"/>
         <Controllable name="Output Gain" id="360" flags="" value="1" parameter="6" symbol="level_out"/>
-        <Controllable name="Limit" id="362" flags="" value="0.23390588164329529" parameter="15" symbol="limit"/>
+        <Controllable name="Limit" id="362" flags="" value="0.33727562427520752" parameter="15" symbol="limit"/>
         <Controllable name="Lookahead" id="364" flags="" value="5" parameter="16" symbol="attack"/>
         <Controllable name="Release" id="366" flags="" value="9.2676582336425781" parameter="17" symbol="release"/>
         <Controllable name="ASC" id="368" flags="Toggle" value="1" parameter="19" symbol="asc"/>
