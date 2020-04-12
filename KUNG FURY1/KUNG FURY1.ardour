@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="KUNG FURY1" sample-rate="48000" end-is-free="1" id-counter="61852" name-counter="2" event-counter="14295" vca-counter="1">
+<Session version="3002" name="KUNG FURY1" sample-rate="48000" end-is-free="1" id-counter="61852" name-counter="2" event-counter="14426" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 5.12"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -403,7 +403,9 @@
     <Region name="Аудио-159" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="284160" position="83871433" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="54332" type="audio" first-edit="nothing" source-0="54322" master-source-0="54322" channels="1"/>
     <Region name="Аудио-163" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="249344" position="65501712" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="60159" type="audio" first-edit="nothing" source-0="59850" master-source-0="59850" channels="1"/>
   </Regions>
-  <Selection/>
+  <Selection>
+    <StripableAutomationControl stripable="171" control="0" order="0"/>
+  </Selection>
   <Locations>
     <Location id="254" name="Сесссия" start="0" end="89390087" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
     <Location id="2739" name="xrun" start="11303904" end="11303904" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
@@ -546,7 +548,7 @@
         <Automation>
           <AutomationList automation-id="gain" id="174" interpolation-style="Linear" state="Off"/>
         </Automation>
-        <Controllable name="gaincontrol" id="175" flags="GainLike" value="0.89113432168960571"/>
+        <Controllable name="gaincontrol" id="175" flags="GainLike" value="0.82323890924453735"/>
       </Processor>
       <Processor id="203" name="meter-Audio  1" active="1" user-latency="0" type="meter"/>
       <Processor id="204" name="KUNG FURY Official Movie [HD]-bS5P_LAqiVg" active="1" user-latency="0" own-input="1" own-output="0" output="KUNG FURY Official Movie [HD]-bS5P_LAqiVg" type="main-outs" role="Main">
